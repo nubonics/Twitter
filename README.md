@@ -1,5 +1,5 @@
 # Twitter
-API driven comment and like extractor for all followees from a starting profile
+API driven comment and like extractor for all followees of a starting profile
 
 ## Distribution compatibility
 
