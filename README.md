@@ -4,7 +4,7 @@
 3Mm7ueNMKpZdPX7t7ZWRXzKTfovLqrYCCT
 
 # Twitter
-API driven comment and like extractor for all followees of a starting profile
+API driven comment and like extractor for all followees of a profile
 
 ## Distribution compatibility
 
